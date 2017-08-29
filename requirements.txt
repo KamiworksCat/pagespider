@@ -1,0 +1,7 @@
+beautifulsoup4==4.6.0
+html5lib==0.999999999
+py==1.4.34
+pyparsing==2.2.0
+pytest==3.2.1
+six==1.10.0
+webencodings==0.5.1
